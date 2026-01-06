@@ -7,3 +7,4 @@ Level:Beginner to advance
 
 Projects:
 Day 1- LED Indicator
+Day 2- LED Switch
