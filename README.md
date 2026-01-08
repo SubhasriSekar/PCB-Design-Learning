@@ -9,3 +9,4 @@ Projects:
 Day 1- LED Indicator
 Day 2- LED Switch
 Day 3- Buzzer Circuit
+Day 4- LED and Buzzer
