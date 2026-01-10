@@ -11,3 +11,4 @@ Day 2- LED Switch
 Day 3- Buzzer Circuit
 Day 4- LED and Buzzer
 Day 5- Pushbutton,LED and Buzzer
+Day 6- Buzzer Alarm using Transistor
