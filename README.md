@@ -12,3 +12,4 @@ Day 3- Buzzer Circuit
 Day 4- LED and Buzzer
 Day 5- Pushbutton,LED and Buzzer
 Day 6- Buzzer Alarm using Transistor
+Day 7- LDR Circuit
