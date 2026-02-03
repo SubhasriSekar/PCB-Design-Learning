@@ -19,3 +19,7 @@ Day10- LDR+LED+Buzzer with Threshold
 Day11- LDR and Potentiometer based dark sensor circuit using BC547
 Day12- Relay driver circuit using transistor
 Day13- Relay driver with switch
+Day14- Automatic relay control using LDR
+Day15- Automatic and manual relay control using LDR and transistor
+Day16- Relay control using IR sensor and transistor
+Day17- Relay control using IR sensor,transistor and buzzer
