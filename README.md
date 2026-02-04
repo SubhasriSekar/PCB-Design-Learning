@@ -23,3 +23,4 @@ Day14- Automatic relay control using LDR
 Day15- Automatic and manual relay control using LDR and transistor
 Day16- Relay control using IR sensor and transistor
 Day17- Relay control using IR sensor,transistor and buzzer
+Day18- Automatic relay control using IR sensor and LDR
